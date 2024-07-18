@@ -1,0 +1,11 @@
+.about{
+    margin: 0px 200px;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}

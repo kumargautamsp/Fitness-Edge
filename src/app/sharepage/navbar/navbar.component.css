@@ -1,0 +1,21 @@
+.bg-light{
+    background-color: white !important;
+    
+}
+
+.navbar{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px !important; 
+    
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: var(--secondary-color);
+    font-weight: 600;
+}
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color: var(--primary-color);
+    text-decoration: underline;
+}
